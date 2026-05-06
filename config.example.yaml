@@ -1,0 +1,14 @@
+github:
+  tokens:
+    - "ghp_your_token_here"
+
+hunter:
+  api_key: "your_hunter_api_key"
+
+platforms:
+  - hunter
+  - github
+
+keywords:
+  - "电力交易系统"
+  - "智能电网"
